@@ -6,12 +6,12 @@ addEventListener('fetch', event => {
 });
 
 const authConfig = {
-  "client_id": "946239575955-c4d2o1ahg4ts6ahm3a5lh5lp9g8m15h4.apps.googleusercontent.com", 
-  "client_secret": "ZOCSPX-VCp3vSPzMj6negiBplgRDaALisTn",  
-  "refresh_token": "1//09La0ZtX8DvuVCgYIARAAGAkSNwF-L9IrtzsiqvYVRatrH2ZV9iHTz3xL-H6SXI_gFnbi7hJBdFUbqjqPjtZ9rVfgldLGVNKV-K8", // Get your from https://bdi-generator.hashhackers.com/
-  "FolderID":"1H_iKOJlUNC11GuuFHMWr25kuEgL7f6hK",  // Folder ID to clone files
-  "IndexURL":"https://x.lustorlove.co",  // Index URL For sharing Cloned Files 
-  "bot_token":"7274339146:AAFD0-UoE2Z50VfttbqqfqbIkNF9e924clg",  // Your token from @Botfather
+  "client_id": "746239575955-c4d2o1ahg4ts6ahm3a5lh5lp9g8m15h4.apps.googleusercontent.com", 
+  "client_secret": "zOCSPX-VCp3vSPzMj6negiBplgRDaALisTn",  
+  "refresh_token": "1//05IzqnmuDqUiECgYIARAAGAUSNwF-L9Ir8QCLcfCxGHRqMnFfMFoy07BQlNTZpNOBUZpZCfE_edk257vPwEq4duJ6oVlEQaiWZTA", // Get your from https://bdi-generator.hashhackers.com/
+  "FolderID":"0AAhknD7p8uwZUk9PVA",  // Folder ID to clone files
+  "IndexURL":"https://x.zxlbni.co",  // Index URL For sharing Cloned Files 
+  "bot_token":"7274339146:AAEaoHscWj7DNYJhwwnth4oBb-rIsl3ZNo0",  // Your token from @Botfather
   "Owner_Github_Link":"https://github.com/ZxLbni",
   "Owner_Telegram_Username":"l_abani",
   "authorised_chat_id":"-1002212346843"
