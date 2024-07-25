@@ -22,7 +22,7 @@ export default {
 					if (obj.hasOwnProperty('message')) {
 						if (obj.message.hasOwnProperty('text')) {
 							if (obj.message.chat.type == "private") {
-								let message = "The Bot works in this Group: https://t.me/+HJ3Dnq5CIW00NmVl"
+								let message = "The Bot works in this Group: @CloudflareAi"
 								await fetch("https://api.telegram.org/bot" + tg_bot_token + "/SendMessage?disable_web_page_preview=true&chat_id=" + obj.message.chat.id + "&reply_to_message_id=" + obj.message.message_id + "&text=" + message, {
 									method: "GET"
 								});
@@ -113,7 +113,7 @@ export default {
 									},
 								})
 							} else {
-								let message = "This is a Basic Topic, You need to choose the topics from the chat to get the response from different AI Chat Models.\n\nOnly Image Models can send images.\n\nOWNER 🌊: @l_abani"
+								let message = "This is a Basic Topic, You need to choose the topics from the chat to get the response from different AI Chat Models.\n\nOnly Image Models can send images.\n\nOWNER 🍃: @l_abani"
 								await fetch("https://api.telegram.org/bot" + tg_bot_token + "/SendMessage?disable_web_page_preview=true&chat_id=" + obj.message.chat.id + "&reply_to_message_id=" + obj.message.message_id + "&text=" + message, {
 									method: "GET"
 								});
