@@ -1,7 +1,7 @@
 name = "ai"
 main = "src/worker.ts"
 compatibility_date = "2024-06-25"
-account_id = "5b24c5e110af57ee8fcfc777dc0bfcd3"
+account_id = "5b24c5e110af57ee8fcfc777dc0bfcd4"
 
 [ai]
 binding = "AI"
